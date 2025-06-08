@@ -1,6 +1,6 @@
 ## Сайт подбора рекомендация для просмотра фильмов - Glowmotion (SPA)
-#### <summary><b>Стек Front-end</b></summary>React+Vite, Tailwind, JS
-#### <summary><b>Стек back-end</b></summary>Python, FastApi, SQLAlchemy, Pydantic, Gigachat AI API
+   - #### <summary><b>Стек Front-end</b></summary>React+Vite, Tailwind, JS
+   - #### <summary><b>Стек back-end</b></summary>Python, FastApi, SQLAlchemy, Pydantic, Gigachat AI API
 
 ### Мануал по запуску/использованию
 - ### Создать .env файл (в папке backend), куда внести 2 токена-ключа:
