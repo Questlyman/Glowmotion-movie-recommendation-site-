@@ -1,4 +1,4 @@
-## Сайт подбора рекомендация для просмотра фильмов - Glowmotion (SPA)
+## Сайт подбора рекомендаций для просмотра фильмов - Glowmotion (SPA)
    - #### <summary><b>Стек Front-end</b></summary>React+Vite, Tailwind, JS
    - #### <summary><b>Стек back-end</b></summary>Python, FastApi, SQLAlchemy, Pydantic, Gigachat AI API - [relatinchik](https://github.com/REL4T1N)
 
